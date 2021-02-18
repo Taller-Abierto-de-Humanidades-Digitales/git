@@ -19,4 +19,4 @@ Realiza estos cambios de manera más "agresiva"
 git pull origin
 ```
 
-edito rama Antonio
+cambios de Jairo <línea 22>
