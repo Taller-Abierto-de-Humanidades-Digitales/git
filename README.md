@@ -4,3 +4,15 @@ Este es el sitio para realizar los ejercicios con Git del curso de Humanidades D
 
 
 Probar `fetch`
+
+
+Traer todos los cambios del remoto al local (todas las ramas)
+```git
+git fetch origin
+```
+
+
+Traer todos los cambios desde una rama específica (p. ej. `main`)
+```git
+git fetch origin main
+ ```
