@@ -16,3 +16,8 @@ Traer todos los cambios desde una rama específica (p. ej. `main`)
 ```git
 git fetch origin main
  ```
+
+Realiza estos cambios de manera más "agresiva"
+```git
+git pull origin
+```
