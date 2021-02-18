@@ -18,3 +18,5 @@ Realiza estos cambios de manera más "agresiva"
 ```git
 git pull origin
 ```
+
+edito rama Jairo
