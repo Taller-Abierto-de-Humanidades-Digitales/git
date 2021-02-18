@@ -19,8 +19,3 @@ Realiza estos cambios de manera más "agresiva"
 git pull origin
 ```
 
-<<<<<<< HEAD
-edito rama MAIN
-=======
-cambios de Jairo <línea 22>
->>>>>>> jairo
