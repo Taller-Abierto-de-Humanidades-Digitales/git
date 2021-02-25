@@ -1,6 +1,6 @@
 nombre_de_archivo.ext
-
+.*
 *.doc
-
+/*
 /nombre_del_directorio
 _*
