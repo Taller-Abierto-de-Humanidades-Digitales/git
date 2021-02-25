@@ -3,5 +3,5 @@
 Este es el sitio para realizar los ejercicios con Git del curso de Humanidades Digitales :)
 
 
-[comandos básicos]("comandos.md) | [gitignore]("gitignore.md")
+[comandos básicos](comandos.md) | [gitignore](gitignore.md)
 
