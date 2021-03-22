@@ -37,4 +37,4 @@ Algunos ejemplos de cómo "ignorar" archivos son los siguientes:
 `_*`
 
 
-Puedes ver un archivo de ejemplo en [ejemplos/.gitignore](ejemplos/.gitignore)
+Puedes ver un archivo de ejemplo en [ejemplos/gitignore](ejemplos/gitignore)
